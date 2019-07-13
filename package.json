@@ -1,0 +1,19 @@
+{
+  "name": "samyii-original",
+  "version": "1.0.0",
+  "description": "original design for samyii portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadia91/samyii-original.git"
+  },
+  "author": "Samyii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadia91/samyii-original/issues"
+  },
+  "homepage": "https://github.com/Saadia91/samyii-original#readme"
+}
