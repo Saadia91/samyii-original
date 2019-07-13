@@ -1,0 +1,39 @@
+body {
+	font-family: 'Josephin Sans' sans-serif !important;
+}
+
+.social-links {
+	padding-top: 70px;
+	font-family: 'BenchNine', sans-serif;
+	color: #fff;
+}
+.social2 {
+	border-radius: 50%;
+    padding: 20px 19px 60px 19px;
+    color: #fff !important;
+    text-align: center;
+    margin-right: 15px;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+    letter-spacing: -1px;
+}
+.social2:hover {
+	color: rgb(255, 236, 33) !important;
+}
+.about-text {
+	padding: 20px;
+	font-size: 20px;
+	margin: 50px 0px 100px 0px;
+}
+@media (min-width: 750px) {
+	.about-text {
+		padding: 0px 150px 0px 150px;
+	}
+}
+.quoteBig {
+   line-height: 30px;
+}
+.pre-foot {
+	margin-top: 0px;
+}

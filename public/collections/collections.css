@@ -1,0 +1,14 @@
+
+.bg-gray {
+   background-color: #fafafa;
+}
+.heading { 
+	margin-bottom: 70px;
+	margin-top: 130px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+.back-to {
+	font-size: 20px;
+	margin-bottom: 100px;
+}
